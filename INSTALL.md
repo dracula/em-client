@@ -19,11 +19,11 @@ Download using the [GitHub .zip download](https://github.com/dracula/em-client/a
 
 #### Previews
 
-* Calendar:
+Calendar:
 
-    ![](./examples/dracula_em_client_calendar.png)
+![Calendar](https://raw.githubusercontent.com/dracula/em-client/master/examples/dracula_em_client_calendar.png)
 
-* Contacts page:
+Contacts page:
 
-    ![](./examples/dracula_em_client_contacts.png)
+![Contacts](https://raw.githubusercontent.com/dracula/em-client/master/examples/dracula_em_client_contacts.png)
 
